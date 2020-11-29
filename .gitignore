@@ -1,0 +1,4 @@
+global.json
+sqlite.db
+.idea/
+/wwwroot

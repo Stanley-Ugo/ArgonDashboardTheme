@@ -18,6 +18,9 @@ namespace ArgonDashboardTheme.Controllers
             _logger = logger;
         }
 
+        [Route("")]
+        [HttpGet("/")]
+        [Route("index")]
         public IActionResult Index()
         {
             return View();
