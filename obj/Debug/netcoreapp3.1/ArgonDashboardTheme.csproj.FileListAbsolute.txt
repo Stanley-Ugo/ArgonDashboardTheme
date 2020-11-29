@@ -105,3 +105,13 @@ C:\Projects\ArgonDashboardTheme\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAn
 C:\Projects\ArgonDashboardTheme\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Projects\ArgonDashboardTheme\obj\Debug\netcoreapp3.1\ArgonDashboardTheme.csproj.CoreCompileInputs.cache
 C:\Projects\ArgonDashboardTheme\obj\Debug\netcoreapp3.1\ArgonDashboardTheme.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\ArgonDashboardTheme\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Projects\ArgonDashboardTheme\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projects\ArgonDashboardTheme\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Projects\ArgonDashboardTheme\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Projects\ArgonDashboardTheme\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Projects\ArgonDashboardTheme\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Projects\ArgonDashboardTheme\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Projects\ArgonDashboardTheme\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\ArgonDashboardTheme\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Projects\ArgonDashboardTheme\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs

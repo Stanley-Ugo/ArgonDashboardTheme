@@ -26,6 +26,7 @@
         "dependencies": {
           "Microsoft.VisualStudio.Web.CodeGeneration": "3.1.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Core": "3.1.0",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -642,6 +643,20 @@
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll": {}
         }
       },
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design/3.1.0": {
+        "dependencies": {
+          "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": "3.1.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.100.19.57003"
+          }
+        },
+        "compile": {
+          "lib/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll": {}
+        }
+      },
       "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore/3.1.0": {
         "dependencies": {
           "Microsoft.VisualStudio.Web.CodeGeneration.Core": "3.1.0"
@@ -689,6 +704,20 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll": {}
+        }
+      },
+      "Microsoft.VisualStudio.Web.CodeGenerators.Mvc/3.1.0": {
+        "dependencies": {
+          "Microsoft.VisualStudio.Web.CodeGeneration": "3.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.100.19.57003"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll": {}
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -3327,6 +3356,13 @@
       "path": "microsoft.visualstudio.web.codegeneration.core/3.1.0",
       "hashPath": "microsoft.visualstudio.web.codegeneration.core.3.1.0.nupkg.sha512"
     },
+    "Microsoft.VisualStudio.Web.CodeGeneration.Design/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZHXVe8nDkHXmPlBNGOl3SIxoUKfah2OJOKKmq769gBMqHJMaOrFKhPYsHdTORjKUtwc3AlO1CMLgnljFyyxA/Q==",
+      "path": "microsoft.visualstudio.web.codegeneration.design/3.1.0",
+      "hashPath": "microsoft.visualstudio.web.codegeneration.design.3.1.0.nupkg.sha512"
+    },
     "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore/3.1.0": {
       "type": "package",
       "serviceable": true,
@@ -3347,6 +3383,13 @@
       "sha512": "sha512-52c9OMBHxfJmRt0993W7BCAjZQmLqCmt0lpbFe2ecKSPuW5uZstXlNSUbv+vV9QUvcRRiKDdiWv/y98a2q/Qfw==",
       "path": "microsoft.visualstudio.web.codegeneration.utils/3.1.0",
       "hashPath": "microsoft.visualstudio.web.codegeneration.utils.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Web.CodeGenerators.Mvc/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-y4EFZyLFlFMetMJbR8SJZmy9Ba4Pj5oozhdwksnobn+v+yGTZoWxRTNRSRSRi8n+CE+oxWMcyd8RUiGCJGj2rg==",
+      "path": "microsoft.visualstudio.web.codegenerators.mvc/3.1.0",
+      "hashPath": "microsoft.visualstudio.web.codegenerators.mvc.3.1.0.nupkg.sha512"
     },
     "Microsoft.Win32.Primitives/4.3.0": {
       "type": "package",

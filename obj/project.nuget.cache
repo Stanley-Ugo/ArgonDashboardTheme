@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Wr1hd/Gr5lVMPCV5JLjFrW6Si/ls0YR+T+By2PJBVeTk+uIhk5xdUgPCW0Qt/ijtCr2JLp9mu8+2GhYrT1RLIA==",
+  "dgSpecHash": "KpaQIMHSInNjqcLdoh8NFOKjKcTY1/l6tcWZoGHBCRkYXjwb/OoP3GcVyTYvdURUl9G99/4l5FkyvIhHh2AbOg==",
   "success": true,
   "projectFilePath": "C:\\Projects\\ArgonDashboardTheme\\ArgonDashboardTheme.csproj",
   "expectedPackageFiles": [
@@ -21,9 +21,11 @@
     "C:\\Users\\iamKosmic\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.0\\microsoft.visualstudio.web.codegeneration.3.1.0.nupkg.sha512",
     "C:\\Users\\iamKosmic\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\3.1.0\\microsoft.visualstudio.web.codegeneration.contracts.3.1.0.nupkg.sha512",
     "C:\\Users\\iamKosmic\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\3.1.0\\microsoft.visualstudio.web.codegeneration.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\iamKosmic\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\3.1.0\\microsoft.visualstudio.web.codegeneration.design.3.1.0.nupkg.sha512",
     "C:\\Users\\iamKosmic\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.entityframeworkcore\\3.1.0\\microsoft.visualstudio.web.codegeneration.entityframeworkcore.3.1.0.nupkg.sha512",
     "C:\\Users\\iamKosmic\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.templating\\3.1.0\\microsoft.visualstudio.web.codegeneration.templating.3.1.0.nupkg.sha512",
     "C:\\Users\\iamKosmic\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.utils\\3.1.0\\microsoft.visualstudio.web.codegeneration.utils.3.1.0.nupkg.sha512",
+    "C:\\Users\\iamKosmic\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\3.1.0\\microsoft.visualstudio.web.codegenerators.mvc.3.1.0.nupkg.sha512",
     "C:\\Users\\iamKosmic\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\iamKosmic\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\iamKosmic\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
