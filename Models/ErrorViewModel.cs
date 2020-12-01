@@ -1,6 +1,6 @@
 using System;
 
-namespace ArgonDashboardTheme.Model
+namespace ArgonDashboardTheme.Models
 {
     public class ErrorViewModel
     {
